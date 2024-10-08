@@ -28,7 +28,7 @@
 
 ![Matheus Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=tiTurtle&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiTurtle&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiTurtle&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
