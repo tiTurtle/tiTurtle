@@ -28,6 +28,8 @@
 
 ![Matheus Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=tiTurtle&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiTurtle&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **tiTurtle/tiTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
