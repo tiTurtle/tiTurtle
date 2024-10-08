@@ -10,10 +10,21 @@
 
 📫 [Acesse meu LinkedIn](https://www.linkedin.com/in/matheus-de-souza-rodrigues-177126329/)
 
+--------------
+
 ## Minhas tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="90px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="90px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="90px">
 
+--------
+
+| Cursos | Certificados |
+|--------|--------------|
+| Colaboração GitHub | [Certificado (https://hermes.dio.me/certificates/ATWEBMME.pdf) |
+
+--------
+
+![Matheus Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=tiTurtle&show_icons=true&theme=radical)
 
 
 <!--
