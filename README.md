@@ -22,7 +22,7 @@
 
 | Cursos | Certificados |
 |--------|--------------|
-| Colaboração GitHub | [Certificado]|(https://hermes.dio.me/certificates/ATWEBMME.pdf) |
+| Colaboração GitHub | [Certificado](https://hermes.dio.me/certificates/ATWEBMME.pdf) |
 
 --------
 
