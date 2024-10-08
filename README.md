@@ -44,6 +44,13 @@ ___negrito e itálico___
 <!-- Tabelas -->
 | Cabeçalho 1 | Cabeçalho 2|
 | ------------| -----------|
+| Texto1      | Texto2     |
+| Texto 3     | Texto4     |
+
+- [x] Tarefa 1 <br>
+- [] Tarefa 2 <br>
+- [x] Tarefa 3 <br>
+- [x] Tarefa 4 <br>
 <!--
 **tiTurtle/tiTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
