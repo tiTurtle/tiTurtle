@@ -2,7 +2,7 @@
 
 <!-- Cabeçalhos-->
 
-# Título 1
+<!-- # Título 1
 
 ## Título 2
 
@@ -12,8 +12,17 @@
 
 ##### Título 5
 
-###### Título 6
+###### Título 6 -->
 
+*italico* ou _italico_
+
+**Negrito** ou __negrito__
+
+___negrito e itálico___
+
+- Lista 1
+- Lista 2
+- Sublista
 
 <!--
 **tiTurtle/tiTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
