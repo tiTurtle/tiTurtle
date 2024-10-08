@@ -34,7 +34,16 @@ ___negrito e itálico___
 
 ![Texto imagem](https://static.wikia.nocookie.net/naruto/images/3/33/Naruto_Uzumaki_%28Parte_I_-_HD%29.png/revision/latest/scale-to-width-down/1200?cb=20160316113315&path-prefix=pt-br)
 
+`system.out.printIn()`
 
+```system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn()system.out.printIn() ```
+
+<!-- Citações -->
+> Citação
+
+<!-- Tabelas -->
+| Cabeçalho 1 | Cabeçalho 2|
+| ------------| -----------|
 <!--
 **tiTurtle/tiTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
