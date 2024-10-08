@@ -2,6 +2,21 @@
 
 ![ME](https://64.media.tumblr.com/4d253ebcbac40c328a822176d5045913/tumblr_oa4d9xy53A1ro8ysbo1_500.gif)
 
+--------------------------
+
+
+:man: Oi! Meu nome é Matheus Rodrigues!
+:technologist: Curso Análise e Desenvolvimento de Sistemas no Instituto Infnet
+
+📫 [Acesse meu LinkedIn](https://www.linkedin.com/in/matheus-de-souza-rodrigues-177126329/)
+
+## Minhas tecnologias
+
+![Javascript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css
+)
+
+
+
 <!--
 **tiTurtle/tiTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
