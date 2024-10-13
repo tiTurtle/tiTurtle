@@ -5,7 +5,7 @@
 --------------------------
 
 
-:man: Oi! Meu nome é Matheus Rodrigues!
+:man: Oi! Meu nome é Matheus Rodrigues! <br>
 :technologist: Curso Análise e Desenvolvimento de Sistemas no Instituto Infnet
 
 📫 [Acesse meu LinkedIn](https://www.linkedin.com/in/matheus-de-souza-rodrigues-177126329/)
